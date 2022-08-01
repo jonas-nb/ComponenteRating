@@ -11,15 +11,15 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Orange: hsl(25, 97%, 53%)
+- Orange:#fb7413
 
 ### Neutral
 
-- White: hsl(0, 0%, 100%)
-- Light Grey: hsl(217, 12%, 63%)
-- Medium Grey: hsl(216, 12%, 54%)
-- Dark Blue: hsl(213, 19%, 18%)
-- Very Dark Blue: hsl(216, 12%, 8%)
+- White: #ffffff
+- Light Grey: #959eac
+- Medium Grey: #7c8798
+- Dark Blue: #252d37
+- Very Dark Blue: #121417
 
 ## Typography
 

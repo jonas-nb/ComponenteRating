@@ -1,7 +1,13 @@
-import React from "react";
+import React from 'react'
+import Box from './components/Box'
+import ThanksPage from './components/ThanksPage'
 
 const App = () => {
-  return <div>App</div>;
-};
+    return (
+        <div>
+            <Box />
+        </div>
+    )
+}
 
-export default App;
+export default App
