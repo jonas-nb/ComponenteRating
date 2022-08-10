@@ -1,21 +1,23 @@
-# Interative Component
-
-O componente faz uma interação com o usuário para uma avaliação de 1 a 5.
+<h1 align='center'>Interative Component</h1>
+</br>
+<p align='center'>O componente faz uma interação com o usuário para uma avaliação de 1 a 5.
 Para o projeto foi usado React com react-router-dom para dinamização da página.
-Para estilização foi usado TailwindCss .
+Para estilização foi usado TailwindCss .</p>
+
 
 <img src='src/assets/images/app.png/'>
+<br/>
 
-## Stack utilizada
-
-**Front-end:** React, TailwindCSS
-
-## Demonstração
-
-
+<h2 >Demonstração 📺</h2>
 <img src='src/assets/Demonstra/gif.gif'/>
+</br>
 
-## Instalação
+<h2>Stack utilizada 🛠</h2>
+<p><b>Front-end:</b> React, TailwindCSS</p>
+
+</br>
+
+## Instalação ⚙
 
 Instale my-project com npm
 
@@ -25,7 +27,9 @@ Instale my-project com npm
   cd my-project
 ```
 
-## Deploy
+<br/>
+
+## Deploy ☁
 
 Para fazer o deploy desse projeto rode
 
@@ -34,12 +38,15 @@ Para fazer o deploy desse projeto rode
 ```
 
 
+<br/>
 
-## Referência
+## Referência 📚
 
 -   [Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 -   [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-## Autores
+<br/>
+
+## Autores 🖊
 
 -   [@jonas-nb](https://www.github.com/jonas-nb)
